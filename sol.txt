@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cam Mosaico 01
+http://pfsv.io:80/pTsTxT7f/baseiptv/60676
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Acompanhe A Casa
+http://pfsv.io:80/pTsTxT7f/baseiptv/60677
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cam 02
+http://pfsv.io:80/pTsTxT7f/baseiptv/60678
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Make Off
+http://pfsv.io:80/pTsTxT7f/baseiptv/60679
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Quarto Cordel
+http://pfsv.io:80/pTsTxT7f/baseiptv/60680
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Quarto Colorido
+http://pfsv.io:80/pTsTxT7f/baseiptv/60681
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Acompanhe a Casa EXTRA
+http://pfsv.io:80/pTsTxT7f/baseiptv/60682
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cozinha XEPA
+http://pfsv.io:80/pTsTxT7f/baseiptv/60683
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Sala de Estar
+http://pfsv.io:80/pTsTxT7f/baseiptv/60684
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Quarto Cordel Extra
+http://pfsv.io:80/pTsTxT7f/baseiptv/60686
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cam 11
+http://pfsv.io:80/pTsTxT7f/baseiptv/60687
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Quarto Colorido Extra
+http://pfsv.io:80/pTsTxT7f/baseiptv/60685
+#EXTINF:-1 tvg-logo="" group-title="BBB21",BBB Cam Mosaico 02
+http://pfsv.io:80/pTsTxT7f/baseiptv/60692
